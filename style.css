@@ -191,9 +191,15 @@ nav div button{
 /* featuerd products  */
 
 #product-title{
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 20px;
+width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+#product-title span{
+    background:#fff; 
+    padding:0 10px; 
 }
 
 .featuerd-products{
